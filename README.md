@@ -1,16 +1,38 @@
-# snapchatClone
+# Snapchat Clone
+Snapchat clone written in Flutter :D
 
-A new Flutter project.
+  - ## Why
+    Great project for learning about mobile development
 
-## Getting Started
+## Platforms
+- iOS
+- Android
 
-This project is a starting point for a Flutter application.
+## Tech used
+- **Frontend framework**: Flutter
+- **Main database**: Firebase Firestore
+- **Authentication**: Firebase Auth
+- **Cloud functions**: Firebase using Typescript
+- **Notifications**: Firebase Cloud Messaging
+- **Snap Map**: Google Maps
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- ### Snaps
+  A user can create snaps (videos or images) using the in-app camera and put them in their stories or save them in "memories".
+  
+- ### Chat system
+  The whole chat system has some nice features :D :
+    - A user can start a chat with any other user.
+    - A user can send snaps as messages.
+    - A user can create a single chat with many users (group chat).
+  
+- ### Stories
+    - A user can create snaps and put them in their stories.
+    - A user can see stories from the people the user has added.
+    - The stories section (when you can see the stories from your friends), also has a "for you" section where you can recommended stories but for simplicity and because this app was not ment for production, in it you can see all stories.
+ 
+- ### Memories
+  In memories a user can see their saved snaps
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ### Snap Map
+  Using the Google maps API
