@@ -50,6 +50,7 @@ Snapchat clone written in Flutter :D
     - Email
  
 ## Example Videos :)
+The app was tested using an android emulator in an old and saturated computer so the performance is terrible :). I sped up the videos 4x.
 
 https://github.com/user-attachments/assets/1d5ef9d6-0d45-4a92-a83b-88bdcc88754f
 
