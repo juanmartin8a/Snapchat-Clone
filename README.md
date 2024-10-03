@@ -32,7 +32,7 @@ Snapchat clone written in Flutter :D
 - ### Stories
     - A user can create snaps and put them in their stories.
     - A user can see stories from the people the user has added.
-    - The stories section (when you can see the stories from your friends), also has a "for you" section where you can recommended stories but for simplicity and because this app was not ment for production, in it you can see all stories.
+    - The stories section (when you can see the stories from your friends), also has a "for you" section where you can see recommended stories but for simplicity, and because this app was not meant for production, in it you can see all stories.
  
 - ### Memories
   In memories, a user can see their saved snaps ordered by date. In there, a user search snaps by date and can select a snap to add it to their story or delete it.
