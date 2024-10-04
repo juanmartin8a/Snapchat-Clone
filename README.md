@@ -12,6 +12,7 @@ Snapchat clone written in Flutter :D
 - **Frontend framework**: Flutter
 - **Main database**: Firebase Firestore
 - **Authentication**: Firebase Auth
+- **File storage**: Firebase Storage
 - **Cloud functions**: Firebase using Typescript
 - **Notifications**: Firebase Cloud Messaging
 - **Snap Map**: Google Maps
