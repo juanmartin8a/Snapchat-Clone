@@ -1,4 +1,7 @@
 # Snapchat Clone
+![Started](https://img.shields.io/badge/Started-Oct%202020-blue%20green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202020-blue.svg?color=informational)
+
 Snapchat clone written in Flutter :D
 
   - ## Why
